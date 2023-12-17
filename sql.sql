@@ -1,0 +1,5 @@
+CREATE TABLE annonces (
+    id INT(11) AUTO_INCREMENT PRIMARY KEY,
+    announces TEXT NOT NULL,
+    date_creation TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
