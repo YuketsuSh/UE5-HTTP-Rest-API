@@ -1,2 +1,4 @@
 # UE5-HTTP-Rest-API
-Backend API of HTTP_Request Addon UE5 made by Yuketsu
+Backend API for HTTP_Request Addon UE5
+
+Backend made by Yuketsu
